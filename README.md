@@ -1,4 +1,4 @@
-# 📝 Laboratorio: Declarando Clases en Programación Orientada a Objetos
+# 📝 Laboratorio: Declarando Clases.
 
 
 A continuación, se detallan los ejercicios incluidos.
